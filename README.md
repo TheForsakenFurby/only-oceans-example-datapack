@@ -1,4 +1,4 @@
-# only-oceans-example-datapack
+# Full Information
 
 This is an example datapack for Minecraft Java Edition on custom world generation.
 
