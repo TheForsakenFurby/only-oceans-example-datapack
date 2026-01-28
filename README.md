@@ -2,7 +2,7 @@
 
 This is an example datapack for Minecraft Java Edition on custom world generation.
 
-This is the barest-bones interpretation of an "ocean challenge" world. The whole overworld is ocean biomes. No land biomes, no beaches (thus no buried treasure), no mushroom islands, no lush/dripstone/deep dark biomes. Just the 9 vanilla oceans. Terrain generation has been tweaked near the roots so that the entire surface follows the terrain shape of oceans and deep oceans. Tiny islands can generate, those these still generated as ocean biomes. (Additionally, continentalness noise has been scaled down for playability.)
+This is the barest-bones interpretation of an "ocean challenge" world. The whole overworld is ocean biomes. No land biomes, no beaches (thus no buried treasure), no mushroom islands, no lush/dripstone/deep dark biomes. Just the 9 vanilla oceans. Terrain generation has been tweaked near the roots so that the entire surface follows the terrain shape of oceans and deep oceans. Tiny islands can generate, though these still generate as ocean biomes. (Additionally, continentalness noise has been scaled down for playability.)
 
 This datapack has been published for learning purposes — anyone interested is encouraged to download it and look through the files to see how they can do something like this, or even rip files directly, no credit needed. You are of course welcome to actually play with it too, though there is significantly less gameplay than in vanilla.
 
